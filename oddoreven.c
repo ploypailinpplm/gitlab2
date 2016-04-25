@@ -4,7 +4,7 @@ int main()
 {
    int n;
 
-   printf("Enter an integer: \n");
+   printf("Enter an int:   -\n");
    scanf("%d", &n);
 
    if (n%2 == 0)
